@@ -8,7 +8,7 @@ c = conn.cursor()
 #                 City varchar(255) NOT NULL
 #                 )''')
 # c.execute("INSERT INTO dks_login VALUES (NULL, 'PuemMTH', 'tcgamer.061@gmail.comasd', 'หนองกระทุ่ม')")
-# c.execute("INSERT INTO py_data VALUES ('Six','tcgamer.061@gmail.com','0616544123','หนองกระทุ่ม')")
+# c.execute("INSERT INTO py_data VALUES ('Six','tcgamer.061@gmail.com','....','หนองกระทุ่ม')")
 # c.execute("INSERT INTO `py_data` (`id`, `Username`, `Email`, `City`) VALUES (NULL, 'PuemMTH', 'tcgamer.061@gmail.comasd', 'หนองกระทุ่ม')")
 c.execute('''CREATE TABLE py_data(
     Number varchar(255) NOT NULL, 
